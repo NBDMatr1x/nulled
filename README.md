@@ -6,4 +6,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NBDMatr1x/nulled/main
 ```
 ### Supported Games
 - Bedwars
-```
